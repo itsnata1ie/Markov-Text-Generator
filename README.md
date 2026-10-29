@@ -1,6 +1,5 @@
 Markov Text Generator
 
-
 About:
 
 This is a Java project that generates text using character transition probabilities learned from a source text.
