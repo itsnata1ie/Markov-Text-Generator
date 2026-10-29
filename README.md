@@ -1,15 +1,16 @@
 Markov Text Generator
 
-About
+
+About:
 
 This is a Java project that generates text using character transition probabilities learned from a source text.
 
-Technologies
+Technologies:
 - Java
 - Two-dimensional arrays
 - File input/output
 - Probability
 
-What I Learned
+What I Learned:
 
 This project helped me practice Java programming, working with arrays, processing text files, and applying probability concepts.
