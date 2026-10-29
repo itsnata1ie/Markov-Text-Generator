@@ -1,0 +1,19 @@
+Markov Text Generator Sample Outputs:
+
+Sample 1 (n=50):
+athand cup hicoue th h reake O e s min Ithak an hi
+
+
+Sample 2 (n=100):
+g theve I's, sorio tryiey g V. linong hang hag sur woad iser. YThe ntequainkilarnok or ck
+hes, a til
+
+
+Sample 3 (n=500):
+Tatrexpicede, borsk!-alanged toube chacly I,  bet _RPiean twe br t mmeer as Whes oueld-d-frs! f oarone g omoug br ensedinghine thadriculyallel pofoo windso ie tofed
+
+tron th d ar to medon thand or
+He me ts. the;
+ralf Asan heve for aloran
+stenn hiag thicin wh s thasuce ofe pe t _R le bulyes; agld thas an, wang
+Afothe merearymaye merou t-wan omeithesind, oteranghoucom, bouream ahausio g hous, on anis, wealern a t s picorthiderme-stith t!" urd-Ayowilors ortrare. sal wherck! truren wat t tr; en ivee
